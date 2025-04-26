@@ -32,16 +32,16 @@ section#telefone{
     left: 50%;
     background: url('../imagens/frame-iphone.png')no-repeat;
 
-    height: 610px;
-    width: 311px;
-    background-color: ;
+    height: 627px;
+    width: 311px;    
     transform: translate(-50%, -50%);  
 
 }
 iframe#tela{
     position: relative;
     top: 80px;
-    left: 23px;
+    left: 22px;
+    
     width: 269px;
     height: 471px;
 }
