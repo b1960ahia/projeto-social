@@ -21,7 +21,7 @@ body{
 
 }
 main{
-    height: 100vh;
+    height: 100vh
     position: relative;
     
 
@@ -47,10 +47,14 @@ iframe#tela{
 }
 section#redes-sociais img{
     width: 50px;
-    margin: 5px;
+    margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px white;
 }
 section#redes-sociais{
-    text-align: left;
+    text-align: right;
+}
+section#redes-sociais img:hover{
+    border: 2px solid white;
+    transform: translate(-2px,-2px);
 }
